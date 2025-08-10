@@ -1,0 +1,505 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Война и мир",
+      "author": "Лев Толстой",
+      "year": 1869,
+      "genre": "Роман",
+      "price": 700,
+      "description": "Эпический роман о жизни и судьбах русских дворян во времена наполеоновских войн.",
+      "image": "https://www.belykrolik.ru/media/catalog/product_images/14201311_1_vojna_i_mir_kniga_2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Мастер и Маргарита",
+      "author": "Михаил Булгаков",
+      "year": 1967,
+      "genre": "Фантастика",
+      "price": 600,
+      "description": "Мистический роман о дьяволе, который приезжает в Москву.",
+      "image": "https://rgbs.ru/wp-content/uploads/2024/03/1-8.jpg"
+     },
+    {
+      "id": 3,
+      "title": "Преступление и наказание",
+      "author": "Фёдор Достоевский",
+      "year": 1866,
+      "genre": "Роман",
+      "price": 650,
+      "description": "Психологический роман о студенте, совершившем убийство.",
+      "image": "https://simg.marwin.kz/media/catalog/product/c/o/cover1__w600_135_916.jpg"
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "Джордж Оруэлл",
+      "year": 1949,
+      "genre": "Антиутопия",
+      "price": 550,
+      "description": "Роман-антиутопия о тоталитарном государстве.",
+      "image": "https://content.img-gorod.ru/pim/products/images/8d/da/018fa27b-966f-7295-b2fa-8697f6918dda.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Анна Каренина",
+      "author": "Лев Толстой",
+      "year": 1877,
+      "genre": "Роман",
+      "price": 680,
+      "description": "Трагическая история любви аристократки Анны Карениной.",
+      "image": "https://i.ebayimg.com/images/g/TdUAAOSwHQBjZHb7/s-l1200.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Сто лет одиночества",
+      "author": "Габриэль Гарсиа Маркес",
+      "year": 1967,
+      "genre": "Магический реализм",
+      "price": 620,
+      "description": "Сага о семье Буэндиа в вымышленном городе Макондо.",
+      "image": "https://imo10.labirint.ru/books/594340/cover.jpg/484-0"
+    },
+    {
+      "id": 7,
+      "title": "Унесённые ветром",
+      "author": "Маргарет Митчелл",
+      "year": 1936,
+      "genre": "Исторический роман",
+      "price": 590,
+      "description": "История любви на фоне Гражданской войны в США.",
+      "image": "https://simg.marwin.kz/media/catalog/product/cache/41deb699a7fea062a8915debbbb0442c/c/o/mitchell_m_unesennye_vetrom_t_1.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Братья Карамазовы",
+      "author": "Фёдор Достоевский",
+      "year": 1880,
+      "genre": "Философский роман",
+      "price": 700,
+      "description": "Философский роман о морали, вере и семье.",
+      "image": "https://kniga.lv/icache/233421b7/af9202e4/1674efef.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Моби Дик",
+      "author": "Герман Мелвилл",
+      "year": 1851,
+      "genre": "Приключения",
+      "price": 540,
+      "description": "История капитана Ахаба и его охоты на белого кита.",
+      "image": "https://imo10.labirint.ru/books/518121/cover.jpg/484-0"
+    },
+    {
+      "id": 10,
+      "title": "Гордость и предубеждение",
+      "author": "Джейн Остин",
+      "year": 1813,
+      "genre": "Роман",
+      "price": 570,
+      "description": "Роман о любви и общественных предрассудках.",
+      "image": "https://simg.marwin.kz/media/catalog/product/cache/41deb699a7fea062a8915debbbb0442c/c/o/cover1__w600_21_70.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Код Да Винчи",
+      "author": "Дэн Браун",
+      "year": 2003,
+      "genre": "Триллер",
+      "price": 610,
+      "description": "Захватывающий триллер с загадками и тайнами.",
+      "image": "https://imo10.labirint.ru/books/549738/cover.jpg/484-0"
+    },
+    {
+      "id": 12,
+      "title": "Гарри Поттер и философский камень",
+      "author": "Дж. К. Роулинг",
+      "year": 1997,
+      "genre": "Фэнтези",
+      "price": 650,
+      "description": "Начало приключений молодого волшебника Гарри Поттера.",
+      "image": "https://m.media-amazon.com/images/I/81kbb0bRtvL._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Властелин колец: Братство кольца",
+      "author": "Дж. Р. Р. Толкин",
+      "year": 1954,
+      "genre": "Фэнтези",
+      "price": 700,
+      "description": "Начало эпической истории борьбы со злом в Средиземье.",
+      "image": "https://cdn.xn--80agbcqdjc3d.xn--p1ai/images/prodacts/sourse/65902/65902337_vlastelin-kolets-hraniteli-koltsa.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Десять негритят",
+      "author": "Агата Кристи",
+      "year": 1939,
+      "genre": "Детектив",
+      "price": 590,
+      "description": "Классический детектив с загадочным убийцей.",
+      "image": "https://imo10.labirint.ru/books/707251/cover.jpg/242-0"
+    },
+    {
+      "id": 15,
+      "title": "Лолита",
+      "author": "Владимир Набоков",
+      "year": 1955,
+      "genre": "Роман",
+      "price": 620,
+      "description": "Спорный роман о любви и одержимости.",
+      "image": "https://i.pinimg.com/736x/ca/6d/f9/ca6df928c6fa10e1fba6264636b748a6.jpg"
+    },
+    {
+      "id": 16,
+      "title": "451 градус по Фаренгейту",
+      "author": "Рэй Брэдбери",
+      "year": 1953,
+      "genre": "Научная фантастика",
+      "price": 560,
+      "description": "Роман о мире, где книги сжигают.",
+      "image": "https://imo10.labirint.ru/books/556173/cover.jpg/242-0"
+    },
+    {
+      "id": 17,
+      "title": "Над пропастью во ржи",
+      "author": "Джером Д. Сэлинджер",
+      "year": 1951,
+      "genre": "Роман",
+      "price": 580,
+      "description": "История подростка Холдена Колфилда.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP2t5I0_3uxO68tSHeV1f97zUIPC1Lo0z1Wg&s"
+    },
+    {
+      "id": 18,
+      "title": "Идиот",
+      "author": "Фёдор Достоевский",
+      "year": 1869,
+      "genre": "Роман",
+      "price": 640,
+      "description": "Роман о чистом и добром человеке в жестоком мире.",
+      "image": "https://ndc.book24.ru/resize/410x590/pim/products/images/87/8f/018fa1fb-8bcf-7abc-9ee0-ae690d92878f.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Портрет Дориана Грея",
+      "author": "Оскар Уайльд",
+      "year": 1890,
+      "genre": "Роман",
+      "price": 610,
+      "description": "Роман о молодом человеке, сохранившем молодость ценой души.",
+      "image": "https://imo10.labirint.ru/books/450144/cover.jpg/242-0"
+    },
+    {
+      "id": 20,
+      "title": "Жизнь Пи",
+      "author": "Ян Мартел",
+      "year": 2001,
+      "genre": "Приключения",
+      "price": 590,
+      "description": "История мальчика, выжившего на лодке с тигром.",
+      "image": "https://imo10.labirint.ru/books/680200/cover.jpg/484-0"
+    },
+    {
+      "id": 21,
+      "title": "Маленький принц",
+      "author": "Антуан де Сент-Экзюпери",
+      "year": 1943,
+      "genre": "Сказка",
+      "price": 530,
+      "description": "Философская сказка о маленьком принце и его приключениях.",
+      "image": "https://ndc.book24.ru/resize/410x590/pim/products/images/6a/d9/018fa1c2-2195-7e5a-ac96-9ec74f0b6ad9.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Крейцерова соната",
+      "author": "Лев Толстой",
+      "year": 1889,
+      "genre": "Рассказ",
+      "price": 480,
+      "description": "Краткая пронзительная история о ревности и браке.",
+      "image": "https://imo10.labirint.ru/books/534790/cover.jpg/242-0"
+    },
+    {
+      "id": 23,
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "year": 1936,
+      "genre": "Роман",
+      "price": 600,
+      "description": "История дружбы и любви после Первой мировой войны.",
+      "image": "https://imo10.labirint.ru/books/419736/cover.jpg/242-0"
+    },
+    {
+      "id": 24,
+      "title": "Дракула",
+      "author": "Брэм Стокер",
+      "year": 1897,
+      "genre": "Готический роман",
+      "price": 570,
+      "description": "Классический роман о вампире графе Дракуле.",
+      "image": "https://content.img-gorod.ru/pim/products/images/a6/29/0191730a-da76-771f-976a-005a67a5a629.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Гарри Поттер и тайная комната",
+      "author": "Дж. К. Роулинг",
+      "year": 1998,
+      "genre": "Фэнтези",
+      "price": 650,
+      "description": "Продолжение приключений Гарри Поттера в школе волшебства.",
+      "image": "https://m.media-amazon.com/images/I/81Bxan0zMFL._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Великий Гэтсби",
+      "author": "Фрэнсис Скотт Фицджеральд",
+      "year": 1925,
+      "genre": "Роман",
+      "price": 580,
+      "description": "История американской мечты и трагедии.",
+      "image": "https://imo10.labirint.ru/books/615827/cover.jpg/484-0"
+    },
+    {
+      "id": 27,
+      "title": "Код да Винчи",
+      "author": "Дэн Браун",
+      "year": 2003,
+      "genre": "Триллер",
+      "price": 600,
+      "description": "Захватывающий триллер с тайнами и загадками.",
+      "image": "https://imo10.labirint.ru/books/549738/cover.jpg/484-0"
+    },
+    {
+      "id": 28,
+      "title": "Тихий Дон",
+      "author": "Михаил Шолохов",
+      "year": 1928,
+      "genre": "Роман",
+      "price": 650,
+      "description": "Эпопея о жизни донских казаков.",
+      "image": "https://imo10.labirint.ru/books/511073/cover.jpg/242-0"
+    },
+    {
+      "id": 29,
+      "title": "Коллекционер",
+      "author": "Джон Фаулз",
+      "year": 1963,
+      "genre": "Психологический триллер",
+      "price": 570,
+      "description": "История одержимого человека и его жертвы.",
+      "image": "https://www.litres.ru/pub/c/cover/118944.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Ночной дозор",
+      "author": "Сергей Лукьяненко",
+      "year": 1998,
+      "genre": "Фантастика",
+      "price": 600,
+      "description": "Современный фантастический роман о борьбе Света и Тьмы.",
+      "image": "https://imo10.labirint.ru/books/706015/cover.jpg/484-0"
+    },
+    {
+      "id": 31,
+      "title": "Грозовой перевал",
+      "author": "Эмили Бронте",
+      "year": 1847,
+      "genre": "Роман",
+      "price": 550,
+      "description": "История страсти и мести на английской усадьбе.",
+      "image": "https://content.img-gorod.ru/pim/products/images/57/5b/018fa205-428e-7c03-934f-c95c0275575b.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Портрет художника в юности",
+      "author": "Джеймс Джойс",
+      "year": 1916,
+      "genre": "Роман",
+      "price": 580,
+      "description": "Роман о взрослении и поисках себя.",
+      "image": "https://flibusta.su/b/img/big/210679.jpg"
+    },
+    {
+      "id": 33,
+      "title": "Над кукушкиным гнездом",
+      "author": "Кен Кизи",
+      "year": 1962,
+      "genre": "Роман",
+      "price": 570,
+      "description": "История о бунте в психиатрической больнице.",
+      "image": "https://imo10.labirint.ru/books/609616/cover.jpg/484-0"
+    },
+    {
+      "id": 34,
+      "title": "Фауст",
+      "author": "Иоганн Вольфганг Гёте",
+      "year": 1808,
+      "genre": "Трагедия",
+      "price": 600,
+      "description": "Классическая трагедия о сделке с дьяволом.",
+      "image": "https://content.img-gorod.ru/pim/products/images/c6/cc/018fa170-ad8a-7e02-927f-6fb6b5ecc6cc.jpg"
+    },
+    {
+      "id": 35,
+      "title": "Капитанская дочка",
+      "author": "Александр Пушкин",
+      "year": 1836,
+      "genre": "Исторический роман",
+      "price": 550,
+      "description": "Роман о восстании Пугачёва.",
+      "image": "https://www.litres.ru/pub/c/cover/70766035.jpg"
+    },
+    {
+      "id": 36,
+      "title": "Собор Парижской Богоматери",
+      "author": "Виктор Гюго",
+      "year": 1831,
+      "genre": "Роман",
+      "price": 580,
+      "description": "История любви и трагедии в средневековом Париже.",
+      "image": "https://imo10.labirint.ru/books/530790/cover.jpg/484-0"
+    },
+    {
+      "id": 37,
+      "title": "Тень горы",
+      "author": "Грегори Дэвид Робертс",
+      "year": 2008,
+      "genre": "Приключения",
+      "price": 620,
+      "description": "Автобиографический роман о жизни беглого преступника в Индии.",
+      "image": "https://www.litres.ru/pub/c/cover/17042658.jpg"
+    },
+    {
+      "id": 38,
+      "title": "Скотный двор",
+      "author": "Джордж Оруэлл",
+      "year": 1945,
+      "genre": "Сатира",
+      "price": 540,
+      "description": "Аллегорическая повесть о советском обществе.",
+      "image": "https://imo10.labirint.ru/books/528946/cover.jpg/242-0"
+    },
+    {
+      "id": 39,
+      "title": "Старик и море",
+      "author": "Эрнест Хемингуэй",
+      "year": 1952,
+      "genre": "Рассказ",
+      "price": 520,
+      "description": "Краткая история о борьбе старика с гигантской рыбой.",
+      "image": "https://imo10.labirint.ru/books/425568/cover.jpg/242-0"
+    },
+    {
+      "id": 40,
+      "title": "Женщина в белом",
+      "author": "Уилки Коллинз",
+      "year": 1859,
+      "genre": "Готический роман",
+      "price": 560,
+      "description": "Классический английский готический роман.",
+      "image": "https://imo10.labirint.ru/books/656390/cover.jpg/484-0"
+    },
+    {
+      "id": 41,
+      "title": "Властелин колец: Две крепости",
+      "author": "Дж. Р. Р. Толкин",
+      "year": 1954,
+      "genre": "Фэнтези",
+      "price": 700,
+      "description": "Вторая часть эпической саги о Средиземье.",
+      "image": "https://www.litres.ru/pub/c/cover/20291235.jpg"
+    },
+    {
+      "id": 42,
+      "title": "Пиковая дама",
+      "author": "Александр Пушкин",
+      "year": 1834,
+      "genre": "Рассказ",
+      "price": 500,
+      "description": "Мистический рассказ о картёжных страстях.",
+      "image": "https://piotrovsky.store/upload/resize_cache/iblock/375/572_515_1/fjwh6h4roc3l332vp2m06ay2s280p1yb.jpg"
+    },
+    {
+      "id": 43,
+      "title": "Дневник Анны Франк",
+      "author": "Анна Франк",
+      "year": 1947,
+      "genre": "Дневник",
+      "price": 480,
+      "description": "Дневник девочки во время Второй мировой войны.",
+      "image": "https://imo10.labirint.ru/books/643579/cover.jpg/484-0"
+    },
+    {
+      "id": 44,
+      "title": "О дивный новый мир",
+      "author": "Олдос Хаксли",
+      "year": 1932,
+      "genre": "Научная фантастика",
+      "price": 560,
+      "description": "Роман-антиутопия о будущем обществе.",
+      "image": "https://www.litres.ru/pub/c/cover/14332383.jpg"
+    },
+    {
+      "id": 45,
+      "title": "Доктор Живаго",
+      "author": "Борис Пастернак",
+      "year": 1957,
+      "genre": "Роман",
+      "price": 610,
+      "description": "История любви на фоне революции и войны.",
+      "image": "https://ir.ozone.ru/s3/multimedia-c/c1000/6012262080.jpg"
+    },
+    {
+      "id": 46,
+      "title": "Моби Дик",
+      "author": "Герман Мелвилл",
+      "year": 1851,
+      "genre": "Приключения",
+      "price": 540,
+      "description": "Эпическая охота капитана Ахаба на белого кита.",
+      "image": "https://cdn.ast.ru/v2/ASE000000000720487/COVER/cover1__w220.jpg"
+    },
+    {
+      "id": 47,
+      "title": "Бесы",
+      "author": "Фёдор Достоевский",
+      "year": 1872,
+      "genre": "Философский роман",
+      "price": 620,
+      "description": "Роман о революционерах и моральных проблемах.",
+      "image": "https://imo10.labirint.ru/books/860476/cover.jpg/484-0"
+    },
+    {
+      "id": 48,
+      "title": "Живые и мертвые",
+      "author": "Константин Симонов",
+      "year": 1959,
+      "genre": "Военная проза",
+      "price": 530,
+      "description": "Роман о Великой Отечественной войне.",
+      "image": "https://imo10.labirint.ru/books/534789/cover.jpg/484-0"
+    },
+    {
+      "id": 49,
+      "title": "Граф Монте-Кристо",
+      "author": "Александр Дюма",
+      "year": 1844,
+      "genre": "Приключения",
+      "price": 580,
+      "description": "История о предательстве и мести.",
+      "image": "https://cdn.ast.ru/v2/ASE000000000830336/COVER/cover1__w340.jpg"
+    },
+    {
+      "id": 50,
+      "title": "Игра престолов",
+      "author": "Джордж Р. Р. Мартин",
+      "year": 1996,
+      "genre": "Фэнтези",
+      "price": 650,
+      "description": "Начало эпической саги о борьбе за власть.",
+      "image": "https://knizhnik.org/covers/page-7312-igra-prestolov.jpg"
+    }
+  ]
+  
+}
