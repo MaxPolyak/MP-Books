@@ -1,0 +1,1 @@
+1. Добавить alias чтобы иморты были по типу '@/components/componentName'

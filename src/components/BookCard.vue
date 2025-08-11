@@ -51,14 +51,14 @@ defineProps({
 }
 .book-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15); /* TODO вынести в константу цвет тени, чекни в инете как*/
 }
 
 .image-col {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #f5f5f5;
+  background-color: #f5f5f5; /* TODO вынести в константу, чекни в инете как*/
   border-top-left-radius: 16px;
   border-bottom-left-radius: 16px;
   overflow: hidden;
@@ -89,6 +89,6 @@ defineProps({
 }
 
 .price {
-  color: #000000;
+  color: #000000; /* TODO вынести в константу, чекни в инете как*/
 }
 </style>
