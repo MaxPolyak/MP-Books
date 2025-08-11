@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar app color="primary" dark>
+    <v-app-bar app color="black" dark>
       <v-toolbar-title>📚 MP Books</v-toolbar-title>
       <v-spacer />
       <v-btn text to="/">Главная</v-btn>
