@@ -94,8 +94,8 @@
 
 <script setup>
 import { ref, computed, onMounted } from 'vue'
-import { fetchBooks } from '../api/books'
-import BookCard from '../components/BookCard.vue'
+import { fetchBooks } from '@/api/books'
+import BookCard from '@/components/BookCard.vue'
 
 const books = ref([])
 
