@@ -262,13 +262,13 @@
     },
     {
       "id": 27,
-      "title": "Код да Винчи",
-      "author": "Дэн Браун",
-      "year": 2003,
-      "genre": "Триллер",
-      "price": 600,
-      "description": "Захватывающий триллер с тайнами и загадками.",
-      "image": "https://imo10.labirint.ru/books/549738/cover.jpg/484-0"
+      "title": "Мертвые души",
+      "author": "Николай Гоголь",
+      "year": 1842,
+      "genre": "Роман",
+      "price": 990,
+      "description": "Роман о путешествиях и приключениях.",
+      "image": "https://imo10.labirint.ru/books/475816/cover.jpg/242-0"
     },
     {
       "id": 28,
@@ -498,7 +498,7 @@
       "genre": "Фэнтези",
       "price": 650,
       "description": "Начало эпической саги о борьбе за власть.",
-      "image": "https://knizhnik.org/covers/page-7312-igra-prestolov.jpg"
+      "image": "https://www.express-kniga.de/images/8435330/f1.jpg____800x800.jpg"
     }
   ]
   
